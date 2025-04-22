@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center">I am a Computer Science Student</h3>
+<h3 align="center">Google Cloud Certified - Associate Cloud Engineer</h3>
 
 - 🌱 I’m currently learning **Go and React**
 
