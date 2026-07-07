@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I am a Computer Science Student</h3>
+<h1 align="center">I'm Daniel</h1>
 <h3 align="center">Google Cloud Certified - Associate Cloud Engineer</h3>
+<h3 align="center">Bachelor Degree in Computer Science</h3>
 
-- 🌱 I’m currently learning **Go and React**
+- I’m currently learning **Go and React**
 
-- 👨‍💻 All of my projects are available at [http://34.101.213.76/](http://34.101.213.76/)
+- All of my projects are available at [http://34.101.213.76/](http://34.101.213.76/)
 
-- 📫 How to reach me **danielcahyakurniawan@gmail.com**
+- How to reach me **danielcahyakurniawan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielcahyakurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielcahyakurniawan" height="30" width="40" /></a>
-<a href="https://instagram.com/ell.chya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ell.chya1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
