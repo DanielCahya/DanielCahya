@@ -1,10 +1,8 @@
 <h1 align="center">I'm Daniel</h1>
-<h3 align="center">Google Cloud Certified - Associate Cloud Engineer</h3>
 <h3 align="center">Bachelor Degree in Computer Science</h3>
+<h3 align="center">Google Cloud Certified - Associate Cloud Engineer</h3>
 
-- I’m currently learning **Go and React**
-
-- All of my projects are available at [http://34.101.213.76/](http://34.101.213.76/)
+- Currently I’m learning **Go**
 
 - How to reach me **danielcahyakurniawan@gmail.com**
 
